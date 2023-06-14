@@ -2,6 +2,9 @@
 
 Flutter project for testing and customizing widgets.
 
+
+this is a practice and sampling project for flutter development
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
