@@ -4,6 +4,7 @@ Flutter project for testing and customizing widgets.
 
 
 this is a practice and sampling project for flutter development
+sign ins are verified by gpg key
 
 ## Getting Started
 
