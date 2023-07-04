@@ -6,7 +6,7 @@ class UIUtility {
         borderRadius: BorderRadius.all(Radius.circular(20)),
         borderSide: BorderSide(
           color:Colors.blueAccent,
-          width: 3,
+          width: 2,
         )
     );
   }
@@ -16,7 +16,7 @@ class UIUtility {
         borderRadius: BorderRadius.all(Radius.circular(20)),
         borderSide: BorderSide(
           color:Colors.greenAccent,
-          width: 3,
+          width: 2,
         )
     );
   }
@@ -26,7 +26,7 @@ class UIUtility {
         borderRadius: BorderRadius.all(Radius.circular(20)),
         borderSide: BorderSide(
           color:Colors.redAccent,
-          width: 3,
+          width: 2,
         )
     );
   }
